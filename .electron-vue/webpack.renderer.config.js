@@ -158,7 +158,11 @@ if (process.env.NODE_ENV === 'production') {
   rendererConfig.devtool = ''
 
   rendererConfig.plugins.push(
-    new BabiliWebpackPlugin(),
+    // disable Babel minification in prod mode because this fucks with PDF.JS.
+    // Chrome can't properly load the fonts when PDF.JS code is minified
+    // https://github.com/mozilla/pdf.js/issues/7326
+    // https://github.com/mishoo/UglifyJS2/issues/1038
+    // new BabiliWebpackPlugin(),
     new CopyWebpackPlugin([
       {
         from: path.join(__dirname, '../static'),
