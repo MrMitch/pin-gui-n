@@ -12,7 +12,7 @@
    viewBox="0 0 696.71527 174.32873"
    height="174.32874mm"
    width="696.71527mm"
-   sodipodi:docname="pin-gui-n-logo-2.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -27,9 +27,9 @@
      inkscape:window-height="1056"
      id="namedview4776"
      showgrid="false"
-     inkscape:zoom="1.0090633"
-     inkscape:cx="460.47938"
-     inkscape:cy="401.39008"
+     inkscape:zoom="5.708124"
+     inkscape:cx="248.36034"
+     inkscape:cy="354.10746"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,15 +82,10 @@
      id="g4633"
      transform="translate(-7.8755909,12.22751)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#f69300;fill-opacity:0.81094528;stroke-width:0.03832604"
-       d="m 62.808657,64.140995 7.77821,12.294037 7.77821,-12.294037 z"
+       style="fill:#f69300;fill-opacity:0.81094528;stroke-width:0.14485432"
+       d="M 237.01953 274.95508 L 207.62109 288.63672 L 237.01953 335.10156 L 266.41602 288.63672 L 237.01953 274.95508 z "
+       transform="matrix(0.26458333,0,0,0.26458333,7.8755909,-12.22751)"
        id="rect14-3-3" />
-    <path
-       inkscape:connector-curvature="0"
-       id="rect14-3-3-5"
-       d="m 78.365077,64.140995 -7.77821,-3.620056 -7.77821,3.620056 z"
-       style="fill:#f69300;fill-opacity:0.81094528;stroke-width:0.02079717" />
   </g>
   <text
      xml:space="preserve"
