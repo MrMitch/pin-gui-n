@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 149.99999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="pin-gui-n-logo.svg"
+   inkscape:export-filename="/home/mitch/pin-gui-n-icon.png"
+   inkscape:export-xdpi="86.699997"
+   inkscape:export-ydpi="86.699997">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="389.32507"
+     inkscape:cy="245.50945"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.6311223,-127.76253)">
+    <g
+       id="g4742"
+       transform="translate(1.9999999e-7,3.9585663e-6)">
+      <g
+         transform="translate(16.27903,130.91195)"
+         id="g4626" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10"
+         d="m 67.369137,138.24399 a 39.970985,39.970985 0 0 0 -39.971202,39.9712 39.970985,39.970985 0 0 0 5.005895,19.27686 l 34.965307,66.73391 34.712093,-66.25074 a 39.970985,39.970985 0 0 0 5.25859,-19.76003 39.970985,39.970985 0 0 0 -39.970683,-39.9712 z"
+         style="fill:#f7f7f7;fill-opacity:1;stroke:#4e4e4e;stroke-width:5.29166651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+      <circle
+         r="6.6847796"
+         cy="172.39029"
+         cx="50.039688"
+         id="path4564"
+         style="fill:#0067f6;fill-opacity:0.81094528;stroke:none;stroke-width:0.33087975;stroke-opacity:1" />
+      <circle
+         r="6.6847796"
+         cy="172.39029"
+         cx="84.88707"
+         id="path4564-5"
+         style="fill:#0067f6;fill-opacity:0.81094528;stroke:none;stroke-width:0.33087975;stroke-opacity:1" />
+      <path
+         id="rect14-3-3"
+         transform="matrix(0.26458333,0,0,0.26458333,-7.6311223,127.76253)"
+         d="m 283.82227,228.97852 -29.39844,13.68359 29.39844,46.46484 29.39648,-46.46484 z"
+         style="fill:#f69300;fill-opacity:0.81094528;stroke-width:0.14485432"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
