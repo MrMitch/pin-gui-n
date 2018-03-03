@@ -92,7 +92,7 @@
       showOpenDialog () {
         const currentWindow = BrowserWindow.getFocusedWindow()
         dialog.showOpenDialog(currentWindow, {
-          title: 'Choose a PDF to open in Pointy',
+          title: 'Choose a PDF to open in Pin-GUI-n',
           filters: [
             { name: 'PDF Files', extensions: ['pdf'] }
           ],
