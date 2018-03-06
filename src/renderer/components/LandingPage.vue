@@ -193,6 +193,7 @@
   }
 
   canvas {
+    border: 1px solid rgba(0, 0, 0, 0.226);
     position: absolute;
   }
 }
