@@ -127,7 +127,8 @@
         this.currentPageNumber = pageNumber
         const page = await this.pdf.getPage(pageNumber)
 
-        var scale = 2
+        // https://github.com/mozilla/pdf.js/issues/5628#issuecomment-343299126
+        const scale = 96 / 72
         var viewport = page.getViewport(scale)
 
         var canvas = this.$refs['canvas']
